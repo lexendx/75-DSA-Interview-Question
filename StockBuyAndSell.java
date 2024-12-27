@@ -1,7 +1,7 @@
 public class StockBuyAndSell {
     
 
-// User function Template for Java
+
 
     public int maximumProfit(int arr[]) {
         int profit=0;
